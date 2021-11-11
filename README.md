@@ -8,7 +8,7 @@ flutter framework, it was an amazing experience for me to learn such a great fra
 
 ✅ I’m currently finished a couple of projects and you can check it from links below :
 
-- IdeaHunter (voice recording app) : https://github.com/ramyhq/idea_hunter
+- IdeaHunter (voice recording app) : https://github.com/ramyhq/Idea_Hunter_app
 - Ultrasonic_Noise : https://github.com/ramyhq/Ultrasonic_Noise_app
 
 
