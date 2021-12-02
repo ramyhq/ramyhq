@@ -1,15 +1,40 @@
-👋 Hi, I’m Ramy Wahid FRESH MOBILE DEVELOPER 👨🏻‍💻 , I have been interested in Mobile Development since college. 👀
-unfortunately, I had to go army for 4 years as technical officer, after I started to learn to develop apps with
-flutter framework, it was an amazing experience for me to learn such a great framework like FLutter.
+# It's Ramy Wahid 👋🏻
+## Fresh Flutter Develoepr 👨🏻‍💻 , interested in Mobile Development 👀
 
-🔎 I’m looking for a good chance to work with mobile development team.
-- 📫 e-mail : ramy.dmk@gmail.com
-- 📞 mob : +201093301578
 
-✅ I’m currently finished a couple of projects and you can check it from links below :
+🔎 I’m Seeking a good chance to work with Profational team as **FLutter Developer**.
+- 📫 : ramy.dmk@gmail.com
+- 📞 : +201093301578
 
-- IdeaHunter (voice recording app) : https://github.com/ramyhq/Idea_Hunter_app
-- Ultrasonic_Noise : https://github.com/ramyhq/Ultrasonic_Noise_app
+ ## Projects
+
+- [Idea_Hunter_app](https://github.com/ramyhq/Idea_Hunter_app)  (voice recording app) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.idea_hunter)
+- [Ultrasonic_Noise](https://github.com/ramyhq/Ultrasonic_Noise_app)  
+- [coast-v1](https://github.com/ramyhq/coast-v1)  
+- [white_wizard_game](https://github.com/ramyhq/white_wizard_game) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.white_wizard) 
+
+## 📺  Latest YouTube Videos
+- [how to add google ads in flutter app | عربي](https://youtu.be/k-RH3wB-Esg)
+- [how add directory instead a package in lib folder flutter](https://youtu.be/hGMk1_O3I2Y)
+- [Custom Slider | Ripple Animation | Flutter | عربي](https://youtu.be/aj67p6jWXCc)
+
+## Skills & Expertise:
+###### General Concept:
+OOP understanding - DebuggingClean - SOLID principles - Problem solving - Deploy apps in play store - Rest API - UML
+###### Flutter:
+Dart - State management with Provider & Bloc - Asynchronous Programming - Build stateful & statelss widgets - ui Responsivity - buildContext - Packages - localization - assets & media - parsing Json - Networking http/dio
+###### Firebase:
+(Authentication - FireStore - Storage - Messagings - PushNotification with Firebase Functions - Crashlytics ) Database:
+Local Sqflite - Shared Preferences - SQL(Basics) - Firestore - Dealing with Files
+###### Source Control:
+Git, GitHub
+###### IDE: 
+Android Studio
+###### Design: 
+Figma, Skitch
+###### Others:
+AdMob ads - Data Structure (basics) - Algorithms (basics)
+
 
 
 <!---
