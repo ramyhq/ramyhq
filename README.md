@@ -6,19 +6,21 @@
 - 📫 : ramy.dmk@gmail.com
 - 📞 : +201093301578
 
- ## Projects
+##  💼 Projects
 
 - [Idea_Hunter_app](https://github.com/ramyhq/Idea_Hunter_app)  (voice recording app) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.idea_hunter)
+- [white_wizard_game](https://github.com/ramyhq/white_wizard_game) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.white_wizard) 
 - [Ultrasonic_Noise](https://github.com/ramyhq/Ultrasonic_Noise_app)  
 - [coast-v1](https://github.com/ramyhq/coast-v1)  
-- [white_wizard_game](https://github.com/ramyhq/white_wizard_game) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.white_wizard) 
+- [Bloc_MVVM_REST_API_Implementation](https://github.com/ramyhq/Bloc_MVVM_REST_API_Implementation)  
 
-## 📺  Latest YouTube Videos
+
+##  📺  Latest YouTube Videos
 - [how to add google ads in flutter app | عربي](https://youtu.be/k-RH3wB-Esg)
 - [how add directory instead a package in lib folder flutter](https://youtu.be/hGMk1_O3I2Y)
 - [Custom Slider | Ripple Animation | Flutter | عربي](https://youtu.be/aj67p6jWXCc)
 
-## Skills & Expertise:
+## 👨🏻‍💻 Skills & Expertise:
 ###### General Concept:
 OOP understanding - DebuggingClean - SOLID principles - Problem solving - Deploy apps in play store - Rest API - UML
 ###### Flutter:
