@@ -1,8 +1,8 @@
 # It's Ramy Wahid 👋🏻
-## Fresh Flutter Develoepr 👨🏻‍💻 , interested in Mobile Development 👀
+## Fresh Flutter Developer 👨🏻‍💻 , interested in Mobile Development 👀
 
 
-🔎 I’m Seeking a good chance to work with Profational team as **FLutter Developer**.
+🔎 I’m Seeking a good chance to work with a professional team as **FLutter Developer**.
 - 📫 : ramy.dmk@gmail.com
 - 📞 : +201093301578
 
