@@ -1,13 +1,14 @@
-# It's Ramy Wahid 👋🏻
-## Fresh Flutter Developer 👨🏻‍💻 , interested in Mobile Development 👀
+# I'm Ramy Wahid 👋🏻
+## Flutter Developer 👨🏻‍💻 , interested in Mobile Development 👀
 
 
 🔎 I’m Seeking a good chance to work with a professional team as **FLutter Developer**.
 - 📫 : ramy.dmk@gmail.com
 - 📞 : +201093301578
 
-##  💼 Projects
 
+##  💼 Projects
+## Portfoilo: https://ramywahid.dorik.io/
 - [Idea Hunter APP](https://github.com/ramyhq/Idea_Hunter_app)  (voice recording app) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.idea_hunter)
 - [ENSHAA APP](https://github.com/ramyhq/ENSHAA_APP) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.enshaa)
 - [coaster APP](https://github.com/ramyhq/coast-v1)
