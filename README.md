@@ -4,10 +4,10 @@
 
 - 📫 : ramy.dmk@gmail.com
 - 📞 : +201093301578
-- [LinkedIn](https://www.linkedin.com/in/ramyhq/)
-- [WhatsApp]([https://www.linkedin.com/in/ramyhq/](https://api.whatsapp.com/send/?phone=%252B201093301578&text&app_absent=0))
-- 
-## 📁 Portfolio >> https://ramywahid.dorik.io
+- 📱 [WhatsApp]([https://www.linkedin.com/in/ramyhq/](https://api.whatsapp.com/send/?phone=%252B201093301578&text&app_absent=0))
+- 📰 [LinkedIn](https://www.linkedin.com/in/ramyhq/)
+
+## 📁 Portfolio https://ramywahid.dorik.io
 
 ##  💼 Projects
 - [Idea Hunter APP](https://github.com/ramyhq/Idea_Hunter_app)  (voice recording app) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.idea_hunter)
