@@ -8,12 +8,12 @@
 
 ##  💼 Projects
 
-- [Idea_Hunter_app](https://github.com/ramyhq/Idea_Hunter_app)  (voice recording app) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.idea_hunter)
-- [ENSHAA APP](https://github.com/ramyhq/ENSHAA_APP)
-- [coast App](https://github.com/ramyhq/coast-v1)
+- [Idea Hunter APP](https://github.com/ramyhq/Idea_Hunter_app)  (voice recording app) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.idea_hunter)
+- [ENSHAA APP](https://github.com/ramyhq/ENSHAA_APP) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.enshaa)
+- [coaster APP](https://github.com/ramyhq/coast-v1)
 - [white wizard game](https://github.com/ramyhq/white_wizard_game) >> [googlePlay](https://play.google.com/store/apps/details?id=net.ifeps.white_wizard) 
-- [Ultrasonic Noise App](https://github.com/ramyhq/Ultrasonic_Noise_app)  
-- [Bloc_MVVM_REST_API_Implementation App](https://github.com/ramyhq/Bloc_MVVM_REST_API_Implementation)  
+- [Ultrasonic Noise APP](https://github.com/ramyhq/Ultrasonic_Noise_app)  
+- [Bloc- MVVM - REST API - Implementation APP](https://github.com/ramyhq/Bloc_MVVM_REST_API_Implementation)  
 
 
 ##  📺  Latest YouTube Videos
