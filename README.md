@@ -17,10 +17,18 @@
 
 
 ##  📺  Latest YouTube Videos
+# Flutter Tutoial
+- [You Should USE Time Machine in Android Studio | Flutter Tips](https://youtu.be/-l_QT6OYQ5I)
+- [Flutter Tutorial | Extends vs Mixin in Flutter provider](https://youtu.be/CUa6fyx15CA)
+- [Flutter Tutorial | Expandable Info Card | ExpansionTile](https://youtu.be/T9JesIHb0W4)
+- [MainAxisAlignment under SingleChildScrollView is not working](https://youtu.be/GEEi29JJ598)
 - [how to add google ads in flutter app | عربي](https://youtu.be/k-RH3wB-Esg)
 - [how add directory instead a package in lib folder flutter](https://youtu.be/hGMk1_O3I2Y)
 - [Custom Slider | Ripple Animation | Flutter | عربي](https://youtu.be/aj67p6jWXCc)
 
+# Other Tutoiual
+- [How To Write Blog Posts FAST | Earn more Money](https://youtu.be/PJaFhrk0UXE)
+- 
 ## 👨🏻‍💻 Skills & Expertise:
 ###### General Concept:
 OOP understanding - DebuggingClean - SOLID principles - Problem solving - Deploy apps in play store - Rest API - UML
