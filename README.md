@@ -5,7 +5,7 @@
 - 📫 : ramy.dmk@gmail.com
 - 📞 : +201093301578
 - 📱  [WhatsApp](https://wa.me/+201093301578)
-- 📰  [LinkedIn](https://www.linkedin.com/in/ramyhq/)
+- 💎  [LinkedIn](https://www.linkedin.com/in/ramyhq/)
 
 ## 📁 Portfolio https://ramywahid.dorik.io
 
