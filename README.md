@@ -1,10 +1,10 @@
 # I'm Ramy Wahid 👋🏻
-## Flutter Developer 👨🏻‍💻 , interested in Mobile Development 👀
+## Flutter Developer 👨🏻‍💻 , interested in Mobile Development 
 🔎 I’m Seeking a good chance to work with a professional team as **FLutter Developer**.
 
 - 📫 : ramy.dmk@gmail.com
 - 📞 : +201093301578
-- 📱 [WhatsApp](https://www.linkedin.com/in/ramyhq/](https://api.whatsapp.com/send/?phone=%252B201093301578&text&app_absent=0)
+- 📱  [WhatsApp](https://wa.me/+201093301578)
 - 📰  [LinkedIn](https://www.linkedin.com/in/ramyhq/)
 
 ## 📁 Portfolio https://ramywahid.dorik.io
