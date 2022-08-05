@@ -20,6 +20,10 @@
 
 ##  📺  Latest YouTube Videos
 ### Flutter Tutoial
+
+- [Provider for Beginners + Create SHOP APP | Flutter Tutorial](https://www.ifeps.net/2022/08/provider-for-beginners-create-shop-app.html)
+- [You need Java 11 or higher to build your app](https://youtu.be/Y1yPOv1ULJg)
+- [Flutter Tips | Change Package Name In Flutter](https://youtu.be/5mwDJCvWE2I)
 - [You Should USE Time Machine in Android Studio | Flutter Tips](https://youtu.be/-l_QT6OYQ5I)
 - [Flutter Tutorial | Extends vs Mixin in Flutter provider](https://youtu.be/CUa6fyx15CA)
 - [Flutter Tutorial | Expandable Info Card | ExpansionTile](https://youtu.be/T9JesIHb0W4)
